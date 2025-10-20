@@ -102,8 +102,6 @@ Los nuevos archivos se enlazaron dentro del documento `index.html` de la siguien
 
 **Ejemplo en el código:**
 
-AGREGAR DOS EJEMPLOS DE SU CODIGO CSS
-
 ```css
 
 header {background-color:violet; 
@@ -148,7 +146,5 @@ El archivo `script.js` incorpora dos acciones básicas:
 ## Capturas de pantalla del proyecto final
 
 * Agregar su captura de pantalla del proyecto final funcionando en el navegador, de ambas versiones (sin y con CSS/JS)
-
-
 ![alt text](image.png)
 

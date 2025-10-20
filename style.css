@@ -1,9 +1,9 @@
-body {background-color:black; 
+body {background-color:antiquewhite; 
     font-family: Verdana, Geneva, Tahoma, sans-serif; 
     margin: 5% ;}
 
 
-header {background-color:darkgray; 
+header {background-color:aliceblue; 
     color:black; 
     text-align: justify; 
     padding: 10%;}
@@ -38,3 +38,4 @@ button {background-color: chartreuse;
     color: cornflowerblue; 
     border-radius: 15%; 
     cursor: auto; :hover} 
+    
