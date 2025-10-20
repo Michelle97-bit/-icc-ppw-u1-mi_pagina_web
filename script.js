@@ -1,4 +1,4 @@
-/ Botón que agrega una nueva fila a la tabla 
+//Botón que agrega una nueva fila a la tabla 
 const boton = document.getElementById("agregarFila");
 
 boton.addEventListener("click", ()=> {
