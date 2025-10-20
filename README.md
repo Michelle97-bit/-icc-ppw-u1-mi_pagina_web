@@ -92,8 +92,8 @@ Los nuevos archivos se enlazaron dentro del documento `index.html` de la siguien
 
 | Elemento                    | Estilo implementado                                            | Descripción                             |
 | --------------------------- | -------------------------------------------------------------- | --------------------------------------- |
-| `body`                      |         |         |
-| `header`                    | |
+| `body`                      |  background-image   |         |                                    aplica imagen de fondo
+| `header`                    | |  text-transform                                                  controla el uso de mayús y min del texto
 | `table`                     |                              |                  |
 | `button`                    |                                   |   |
 | `section`                   |                                        |          |
@@ -104,14 +104,21 @@ Los nuevos archivos se enlazaron dentro del documento `index.html` de la siguien
 
 ```css
 
-header {background-color:violet; 
-        color:black; 
-        text-align: justify; 
-        padding: 10%;}
+body {background-color:antiquewhite; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    margin: 5% ;
+    background-image: url("https://img.freepik.com/vector-gratis/vector-onda-azul-transparente_1055-7084.jpg?semt=ais_hybrid&w=740&q=80");
+}
 
-h2  {color:blueviolet; 
-    border-bottom: 10; 
-    padding-bottom:10%;}
+
+header {background-color:rgba(134, 161, 185, 0.142); 
+    color:black; 
+    text-align: justify; 
+    padding: 5%;
+    text-transform: uppercase;
+}
+
+
 ```
 
 ---

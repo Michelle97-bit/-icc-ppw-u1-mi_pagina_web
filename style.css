@@ -1,41 +1,45 @@
 body {background-color:antiquewhite; 
     font-family: Verdana, Geneva, Tahoma, sans-serif; 
-    margin: 5% ;}
+    margin: 5% ;
+    background-image: url("https://img.freepik.com/vector-gratis/vector-onda-azul-transparente_1055-7084.jpg?semt=ais_hybrid&w=740&q=80");
+}
 
 
-header {background-color:aliceblue; 
+header {background-color:rgba(134, 161, 185, 0.142); 
     color:black; 
     text-align: justify; 
-    padding: 10%;}
+    padding: 5%;
+    text-transform: uppercase;
+}
 
 
 h2 {color:blueviolet; 
-    border-bottom: 10; 
-    padding-bottom:10%;}
+    border-bottom: 5%; 
+    padding-bottom:5%;}
 
 
 section {margin: auto; 
-    padding: 15%; 
-    border-radius: 20%; 
-    box-shadow: inset; }
+    padding: 5%; 
+    border-radius: 10%; 
+    box-shadow: 10px 12px 14px 2px rgba(0,0,0,0.47); }
 
 
 table {border-collapse: separate ; 
-    width: fit-content;}
+    width:auto;}
 
 
 th {border: 7%; 
     padding: 1%; 
-    text-align:center}
+    text-align:center;}
 
 
 td {border: 7%; 
     padding: 1%; 
-    text-align:center }
+    text-align:center; }
 
 
 button {background-color: chartreuse; 
     color: cornflowerblue; 
     border-radius: 15%; 
-    cursor: auto; :hover} 
+    cursor: auto; :hover;}
     

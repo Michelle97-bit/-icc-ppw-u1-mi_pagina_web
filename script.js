@@ -23,6 +23,7 @@ if (titulo){
         });
     }
 );
+
 // funcion oculta un elemento
 function myFunction() {
     var x = document.getElementById("myDIV");
